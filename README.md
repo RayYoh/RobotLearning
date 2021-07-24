@@ -29,16 +29,40 @@ As we all konwn, when entering a new field, you may be confused as to where to s
  
 To help those who are new get into this field, I list the resources I am using (Listed in study order):
  
-1. First of all, you are suppoesed to master some basic knowledge of **Deep Learning (DL)**.
+1. First of all, you are suppoesed to master some basic knowledge of ***Deep Learning (DL)***.
    
    I recommend two courses:  
     * [Andrew Ng](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=3367987119980368879)(Perhaps most people choose it.)
     * [Hung-Yi Lee](https://www.bilibili.com/video/BV1JK4y1D7Wb)(It's really interesting, but be careful not to be carried away by the accent.)
  
-2. Next, you should master a **DL framework**, e.g. PyTorch or Tensorflow. I'm learning the PyTorch framework, but most of the RL algorithms are based on Tensorflow.
+2. Next, you should master a ***DL framework***, e.g. PyTorch or Tensorflow. I'm learning the PyTorch framework, but most of the RL algorithms are based on Tensorflow.
 
    However, I believe they will add a PyTorch version in the near future.
 
    Simple PyTorch tutorials that I recommend are:
     * [Morvan](https://www.bilibili.com/video/BV1Vx411j7kT)
     * [PyTorch](https://www.bilibili.com/video/BV1Rv411y7oE)
+    * [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
+
+3. Learn basic ***Robot Learning algorithms***.  
+
+   **Reinforcement Learning Surveys:**
+    * [2018-Deep Reinforcement Learning_ An Overview](https://github.com/RayYoh/RobotLearning/blob/main/Reinforcement%20Learning/Papers/2018-Deep%20Reinforcement%20Learning_%20An%20Overview.pdf)
+    * [2017-Survey of Model-Based Reinforcement Learning_ Applications on Robotics](https://github.com/RayYoh/RobotLearning/blob/main/Reinforcement%20Learning/Papers/2017-Survey%20of%20Model-Based%20Reinforcement%20Learning_%20Applications%20on%20Robotics.pdf)
+    * [2017-A Brief Survey of Deep Reinforcement Learning](https://github.com/RayYoh/RobotLearning/blob/main/Reinforcement%20Learning/Papers/2017-A%20Brief%20Survey%20of%20Deep%20Reinforcement%20Learning.pdf)  
+    
+   **Imitation Learning Surveys：**
+    * [2021-Imitation Learning_ Progress, Taxonomies and Opportunities](https://github.com/RayYoh/RobotLearning/blob/main/Imitation%20Learning/Papers/2021-Imitation%20Learning_%20Progress%2C%20Taxonomies%20and%20Opportunities.pdf)
+    * [2020-The Past and Present of Imitation Learning_ A Citation Chain Study](https://github.com/RayYoh/RobotLearning/blob/main/Imitation%20Learning/Papers/2020-The%20Past%20and%20Present%20of%20Imitation%20Learning_%20A%20Citation%20Chain%20Study.pdf)
+    * [2019-Recent Advances in Imitation Learning from Observation](https://github.com/RayYoh/RobotLearning/blob/main/Imitation%20Learning/Papers/2019-Recent%20Advances%20in%20Imitation%20Learning%20from%20Observation.pdf)
+    * [2019-Global overview of Imitation Learning](https://github.com/RayYoh/RobotLearning/blob/main/Imitation%20Learning/Papers/2019-Global%20overview%20of%20Imitation%20Learning.pdf)
+    * [2016-Imitation Learning A Survey of Learning Methods](https://github.com/RayYoh/RobotLearning/blob/main/Imitation%20Learning/Papers/2016-Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)
+
+4. ***Detailed algorithm tutorials***
+    * [Morvan RL](https://www.bilibili.com/video/BV13W411Y75P?p=18)
+    * [Hung-Yi Lee DRL](https://www.bilibili.com/video/BV1MW411w79n?p=1)
+    * [UCB DRL](https://www.bilibili.com/video/BV1dJ411W78A)
+    * [Stanford RL](https://www.bilibili.com/video/BV1sb411s7eQ)
+    * [Imitation Learning Tutorial ICML 2018](https://www.bilibili.com/video/BV1eb411a7qP)
+
+5. 
