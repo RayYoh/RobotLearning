@@ -64,5 +64,6 @@ To help those who are new get into this field, I list the resources I am using (
     * [UCB DRL](https://www.bilibili.com/video/BV1dJ411W78A)
     * [Stanford RL](https://www.bilibili.com/video/BV1sb411s7eQ)
     * [Imitation Learning Tutorial ICML 2018](https://www.bilibili.com/video/BV1eb411a7qP)
-
-5. 
+    * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/running.html)
+    * [Clean implementations of Imitation Learning algorithms](https://imitation.readthedocs.io/en/latest/index.html)
+5. ***Read the relevant papers in detail to master the specific algorithms.***
