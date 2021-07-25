@@ -6,7 +6,7 @@
 
 :pray: If you think it is usefull, please **star** it!
 
-:raising_hand: If you have better material on hand, please fork it and submit your material in the repository.
+:raising_hand: If you have better materials on hand, please **fork** it and submit your materials in the repository.
 
 **Contents:** 
 
@@ -66,4 +66,9 @@ To help those who are new get into this field, I list the resources I am using (
     * [Imitation Learning Tutorial ICML 2018](https://www.bilibili.com/video/BV1eb411a7qP)
     * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/running.html)
     * [Clean implementations of Imitation Learning algorithms](https://imitation.readthedocs.io/en/latest/index.html)
+  
 5. ***Read the relevant papers in detail to master the specific algorithms.***
+
+    You are suppossed to choose your research direction and read relevant papers. You should learn how other researchers have done experiments using related algorithms.
+    
+6. Last but not list, you should learn how to use the environments and simulators, e.g. OpenAI Gym, ROS, MoJoCo etc. Click [here](https://blog.csdn.net/qq_39816905/article/details/118415701) for more details.
