@@ -15,14 +15,14 @@
   2. [Imitation Learning](#imitation-learning)
 
  ## Reinforcement Learning
-  * 📖[Books](https://github.com/RayYoh/RobotLearning/tree/main/Reinforcement%20Learning/Books)  
-  * 📰[Papers](https://github.com/RayYoh/RobotLearning/tree/main/Reinforcement%20Learning/Papers) 
+  * 📖 [Books](https://github.com/RayYoh/RobotLearning/tree/main/Reinforcement%20Learning/Books)  
+  * 📰 [Papers](https://github.com/RayYoh/RobotLearning/tree/main/Reinforcement%20Learning/Papers) 
  
  
  ## Imitation Learning
-  * 📖[Books](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Books)
-  * 📰[Papers](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Papers)
-  * 📊[Sliders](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Sliders)
+  * 📖 [Books](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Books)
+  * 📰 [Papers](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Papers)
+  * 📊 [Sliders](https://github.com/RayYoh/RobotLearning/tree/main/Imitation%20Learning/Sliders)
 ## My suggestions
 
 As we all konwn, when entering a new field, you may be confused as to where to start, especially in robot learning.
