@@ -71,4 +71,4 @@ To help those who are new get into this field, I list the resources I am using (
 
     You are suppossed to choose your research direction and read relevant papers. You should learn how other researchers have done experiments using related algorithms.
     
-6. Last but not list, you should learn how to use the environments and simulators, e.g. OpenAI Gym, ROS, MoJoCo etc. Click [here](https://blog.csdn.net/qq_39816905/article/details/118415701) for more details.
+6. Last but not list, you should learn how to use the ***environments and simulators***, e.g. OpenAI Gym, ROS, MoJoCo etc. Click [here](https://blog.csdn.net/qq_39816905/article/details/118415701) for more details.
